@@ -1,4 +1,3 @@
-// UMBC - CMSC 341 - Spring 2023 - Proj2
 #ifndef SHOW_H
 #define SHOW_H
 #include <iostream>
