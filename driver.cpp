@@ -1,4 +1,3 @@
-// UMBC - CMSC 341 - Spring 2023 - Proj2
 #include "show.h"
 #include <random>
 
