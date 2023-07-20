@@ -1,15 +1,3 @@
-/*****************************************
-** File:    mytest.cpp
-** Project: CMSC 341 Project 2, Spring 2023
-** Author:  Oritsejolomisan Mebaghanje
-** Date:    03/28/23
-** E-mail:  xz94254@umbc.edu
-**
-** This file contains the program for mytest.cpp.
-**
-**
-***********************************************/
-
 #include "show.h"
 using namespace std;
 
